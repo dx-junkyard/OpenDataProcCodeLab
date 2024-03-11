@@ -16,6 +16,12 @@
         },
         {
             "title": "pipeline component",
+            "comment": "pipelineの部品（attribution）",
+            "url": "https://raw.githubusercontent.com/dx-junkyard/OpenDataProcCodeLab/main/Common/Components/Attribution/001_attribution_processing_step.py",
+            "filename": "attribution_processing_step.py"
+        },
+        {
+            "title": "pipeline component",
             "comment": "pipelineの部品（downloader）",
             "url": "https://raw.githubusercontent.com/dx-junkyard/OpenDataProcCodeLab/main/Common/Components/DataFetchers/Downloader/001_download_step.py",
             "filename": "download_step.py"
